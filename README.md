@@ -1,1 +1,1 @@
-# Stopwatch
+Um cronometro feito em C#
